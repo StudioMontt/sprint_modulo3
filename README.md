@@ -51,7 +51,7 @@ MySQL
 
 ### Modelo Relacional de la BD
 
-![Modelo Relacional de la BD](/"Diagrama 3 Sprint.png")
+![Modelo Relacional de la BD](./Diagrama 3 Sprint.png)
 
 ---
 
